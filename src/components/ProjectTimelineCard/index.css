@@ -1,0 +1,40 @@
+.project-img {
+  width: 100%;
+}
+
+.project-head-card {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0px;
+}
+
+.project-heading {
+  font-family: 'Roboto';
+  color: #171f46;
+}
+
+.duration-card {
+  display: flex;
+  align-items: center;
+}
+
+.project-duration {
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #1e293b;
+  margin-left: 6px;
+}
+
+.project-description {
+  font-family: 'Roboto';
+  color: #1e293b;
+  margin-top: 0px;
+}
+
+.project-link {
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #0967d2;
+}

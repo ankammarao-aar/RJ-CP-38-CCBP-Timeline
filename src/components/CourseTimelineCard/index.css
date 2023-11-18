@@ -1,0 +1,47 @@
+.course-head-card {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0px;
+}
+
+.course-heading {
+  font-family: 'Roboto';
+  color: #171f46;
+}
+
+.clock-card {
+  display: flex;
+  align-items: center;
+}
+
+.course-duration {
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #1e293b;
+  margin-left: 6px;
+}
+
+.course-description {
+  font-family: 'Roboto';
+  color: #1e293b;
+  margin-top: 0px;
+}
+
+.list-container {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.name {
+  background-color: lightgray;
+  font-family: 'Roboto';
+  font-size: 10px;
+  font-weight: bold;
+  color: #1e293b;
+  padding: 6px;
+  border-radius: 6px;
+  margin-right: 8px;
+  margin-bottom: 8px;
+}
